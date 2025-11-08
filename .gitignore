@@ -1,0 +1,8 @@
+.env
+
+__pycache__/
+
+requirements.txt
+README.md
+analytics-dashboard.md
+database_setup.sql
